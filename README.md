@@ -1,0 +1,2 @@
+# LogisticShippingRates
+Shipping Rates Example
